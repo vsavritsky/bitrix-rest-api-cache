@@ -3,9 +3,9 @@
   "description": "Библиотека для кеша приложения основенного на апи",
   "type": "library",
   "require": {
-    "php": ">=7.4",
+    "php": ">=8.1",
     "predis/predis": "^1.1",
-    "slim/psr7": "dev-master"
+    "slim/psr7": "1.7.1"
   },
   "minimum-stability": "stable",
   "autoload": {
